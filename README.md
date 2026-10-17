@@ -1,3 +1,4 @@
+
 # I2EA AI Governance Ecosystem
 
 **Institution-to-Execution Architecture (I2EA)**
@@ -10,43 +11,31 @@ I2EA explores how human-defined governance requirements can be connected to mach
 
 The architecture is designed to support interoperability across organizations, jurisdictions, and technical systems without requiring all participants to adopt identical internal processes.
 
-The following three maps illustrate the proposed governance ecosystem, from its overall structure to human-readable policy development and machine-readable policy implementation.
+Together, the following three maps illustrate how the overall AI governance ecosystem connects human-readable policy development with machine-readable policy implementation.
 
-## 01. Governance Ecosystem Map
+## Governance Ecosystem Maps
 
-An overview of the institutional, technical, and assurance functions involved in AI governance.
+| 01. Governance Ecosystem | 02. Human-Readable Policy | 03. Machine-Readable Policy |
+|:---:|:---:|:---:|
+| [<img src="images/01-Ecosystem-Map.png" width="300" alt="I2EA Governance Ecosystem Map">](images/01-Ecosystem-Map.png) | [<img src="images/02-Human-Readable-Policy.png" width="300" alt="I2EA Human-Readable Policy Map">](images/02-Human-Readable-Policy.png) | [<img src="images/03-Machine-Readable-Policy.png" width="300" alt="I2EA Machine-Readable Policy Map">](images/03-Machine-Readable-Policy.png) |
+| Overall governance architecture | Institutional policy development and coordination | Policy translation and operational implementation |
 
-<a href="images/01-Ecosystem-Map.png">
-  <img src="images/01-Ecosystem-Map.png" width="480" alt="I2EA Governance Ecosystem Map">
-</a>
-
-[View full-size image](images/01-Ecosystem-Map.png)
-
-## 02. Human-Readable Policy
-
-A proposed structure for developing and coordinating governance requirements across international, national, and organizational levels.
-
-<a href="images/02-Human-Readable-Policy.png">
-  <img src="images/02-Human-Readable-Policy.png" width="480" alt="I2EA Human-Readable Policy Map">
-</a>
-
-[View full-size image](images/02-Human-Readable-Policy.png)
-
-## 03. Machine-Readable Policy
-
-A proposed structure for translating governance requirements into machine-readable policies and connecting them to operational controls and monitoring.
-
-<a href="images/03-Machine-Readable-Policy.png">
-  <img src="images/03-Machine-Readable-Policy.png" width="480" alt="I2EA Machine-Readable Policy Map">
-</a>
-
-[View full-size image](images/03-Machine-Readable-Policy.png)
+*Click any image to view the full-size map.*
 
 ## Project Status
 
 These maps present a proposed conceptual architecture intended to support discussion, refinement, and further technical development.
 
+**Published:** October 2026
+
 ## Author
 
-Mana Onishi  
+**Mana Onishi**  
 Independent Researcher, AI Governance
+
+
+## I2EA Website
+
+For more information about the architecture, its components, and related research, visit the official I2EA website.
+
+**[Explore the I2EA Architecture](https://i2ea.org/architecture/v0.9/)**
