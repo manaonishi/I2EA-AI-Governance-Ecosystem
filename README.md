@@ -38,4 +38,4 @@ Independent Researcher, AI Governance
 
 For more information about the architecture, its components, and related research, visit the official I2EA website.
 
-**[Explore the I2EA Architecture](https://i2ea.org/architecture/v0.9/)**
+**[I2EA Website](https://i2ea.org/)**
