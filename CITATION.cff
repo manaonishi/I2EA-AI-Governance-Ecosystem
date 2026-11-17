@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the repository and the relevant Zenodo publications."
+type: software
+title: "I2EA AI Governance Ecosystem"
+authors:
+  - family-names: "Onishi"
+    given-names: "Mana"
+date-released: 2026-10-15
+url: "https://github.com/manaonishi/I2EA-AI-Governance-Ecosystem"
