@@ -18,11 +18,12 @@ I2EA is presented through three complementary architecture maps:
 
 Together, these maps illustrate how institutional governance, information management, and technical implementation can operate as an interconnected architecture.
 
+
 ## Architecture Maps
 
 | 01. Information Loop Map | 02. Governance Ecosystem Map | 03. Technical Architecture Map |
 |:---:|:---:|:---:|
-| [<img src="images/01-InformationLoopMap/IMAGE_FILENAME.png" width="300" alt="I2EA Information Loop Map">](images/01-InformationLoopMap/IMAGE_FILENAME.png) | [<img src="images/02-GovernanceEcosystemMap/IMAGE_FILENAME.png" width="300" alt="I2EA Governance Ecosystem Map">](images/02-GovernanceEcosystemMap/IMAGE_FILENAME.png) | [<img src="images/03-TechnicalArchitectureMap/IMAGE_FILENAME.png" width="300" alt="I2EA Technical Architecture Map">](images/03-TechnicalArchitectureMap/IMAGE_FILENAME.png) |
+| [<img src="images/01-InformationLoopMap.png" width="300" alt="I2EA Information Loop Map">](images/01-InformationLoopMap.png) | [<img src="images/02-GovernanceEcosystemMap.png" width="300" alt="I2EA Governance Ecosystem Map">](images/02-GovernanceEcosystemMap.png) | [<img src="images/03-TechnicalArchitectureMap.png" width="300" alt="I2EA Technical Architecture Map">](images/03-TechnicalArchitectureMap.png) |
 | Information structures and operational flows | Institutional governance and coordination | Technical implementation and execution controls |
 
 *Click any image to view the full-size map.*
